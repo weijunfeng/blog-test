@@ -11,8 +11,9 @@
 2.  石原里美
 3.  迪丽热巴
 4.  古力娜扎
->学过的编程语言有 HTML CSS JavaScript。我写一段给你瞧瞧吧
-```
+
+学过的编程语言有 `HTML` `CSS` `JavaScript`。我写一段给你瞧瞧吧
+```javascript
 function f(){
   console.log('hello world')
 }
